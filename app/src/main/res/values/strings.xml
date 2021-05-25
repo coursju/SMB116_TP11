@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP11</string>
+    <string name="app_title">Network Service Discovery</string>
+    <string name="start_service">Start service</string>
+    <string name="stop_service">Stop service</string>
+    <string name="start_discovering">Start discovering</string>
+    <string name="stop_discovering">Stop discovering</string>
+    <string name="send_message">Send message</string>
+    <string name="close">Close</string>
+</resources>
